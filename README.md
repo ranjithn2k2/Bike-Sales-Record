@@ -1,6 +1,4 @@
 # Bike-Sales-Record
-# Bike Sales Exploratory Data Analysis
-
 Explore and analyze bike sales data with this Python repository, utilizing the power of NumPy, Pandas, Matplotlib, and Seaborn.
 
 ## Key Features
